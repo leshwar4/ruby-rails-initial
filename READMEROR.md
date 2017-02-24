@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# ruby-rails-initial
+This is the initial setup for ruby on rails project
+>>>>>>> 5351908b7379cb916307c920794beb1143206d48
